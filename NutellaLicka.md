@@ -35,7 +35,7 @@ If anyone has requests or suggestions for fund allocations, shoot me a message, 
 
 ## Server Specifications
 
-I will be providing the Southern Hemisphere with a node located in a data centre in Brisbane or Melbourne (pending availability). As I stood for in the last election, I believe this aids in the decentralisation and reduces the reliability on the main stream server hosting providers, by providing another critical SH node that isn't located in the same data centre as others. This decision has hurt my nodes connectivity to other Notary Nodes, and in turn hurt my Notary Node score. I still standby the need for decentralised distribution of the NN servers.
+I will be providing the Southern Hemisphere with nodes (main & 3rd party) located in a data centre in Brisbane or Melbourne (pending availability). As I stood for in the last election, I believe this aids in the decentralisation and reduces the reliability on the main stream server hosting providers, by providing another critical SH node that isn't located in the same data centre as others. This decision has hurt my nodes connectivity to other Notary Nodes, and in turn hurt my Notary Node score. I still standby the need for decentralised distribution of the NN servers.
 
 ## Contact Details
 
